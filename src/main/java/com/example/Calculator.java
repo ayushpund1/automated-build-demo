@@ -1,5 +1,6 @@
 package com.example;
 
+// Updated for Jenkins automated build demonstration
 public class Calculator {
 
     public int add(int a, int b) {
